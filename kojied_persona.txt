@@ -1,115 +1,125 @@
-User Persona: kojied
-
 Executive Summary:
-Kojied is a Reddit user active over the last six months, primarily engaging through comments rather than posts. Their activity saw a notable increase in July 2025. Core interests include strategy and simulation games (like Manor Lords and Civilization), artificial intelligence, and navigating life in New York City. They also engage in specific niche communities such as One Piece and RooCode, and contribute to general discussions on AskReddit. Kojied is characterized by observational insights, clearly stated opinions, a helpful demeanor, and awareness of Japanese language and culture. They likely identify as a Millennial.
+Kojied is a Reddit user active over the past six months, primarily engaging as a commenter. Their online presence indicates a strong connection to New York City, a deep interest in strategy and simulation games, and a curiosity about emerging technologies like AI, tempered by a degree of skepticism towards certain trends (NFTs, AI video manipulation). They tend to be helpful in niche communities (gaming) and reflective/observational in personal posts.
+
+Detailed Persona:
 
 Demographics:
-- Age Range: Likely Millennial (born roughly 1981-1996). Inferred from self-reference and contextual clues.
-    - Evidence: [mv2xf3q: "Millenials have less kids, so they have more time and money to spend on themselves."]
-    - Evidence: [1lykkqf: "Then a girl pointed at me and referred to me as the old person." "tens of thousands of 18 year-old 19 year-old 20-year-olds"]
-- Location Indicators: New York City. Strong evidence from participation in NYC-specific subreddits and a post detailing experiences within the city.
-    - Evidence: [1lykkqf: "There's this bar that I frequent a few blocks away from my house."]
-    - Evidence: [1lykkqf: "New York City is equally adventurous to each, so who am I to judge how others enjoy this adventurous city."]
-    - Evidence: [mexk4g8: "Daytime bathhouse"]
-    - Evidence: [mxxhvpf: "Breakfast - Buvette... Drinks - Double chicken please"]
-- Occupation Clues: Limited, potentially works in a professional environment where interns are present, or is an observer of urban dynamics.
-    - Evidence: [1lykkqf: "I feel violated by intern season"]
-Confidence Level: Moderate (Age), High (Location), Low (Occupation)
+*   **Location Indicators:** New York City.
+    *   Evidence: Frequent participation in NYC-specific subreddits including r/newyorkcity, r/FoodNYC, r/AskNYC, and r/nycrail.
+    *   Citations: [r/newyorkcity - 1lykkqf: "I feel violated by intern season... I'm also a transient being in the city."], [r/FoodNYC - mxxhvpf: (Comment in thread about NYC food)], [r/AskNYC - mexk4g8: (Comment in thread about NYC)], [r/nycrail - mt02ziy: (Comment in thread about NYC rail)]
+    *   Confidence: High
+*   **Occupation Clues:** Potentially involved in a field impacted by "intern season" or competitive hiring, possibly in a professional or tech-adjacent role given interest in AI/coding. The term "transient being in the city" suggests they might not be a long-term, settled resident or could be in a career phase involving mobility.
+    *   Evidence: Post title and content mentioning "intern season" and feeling "transient".
+    *   Citations: [r/newyorkcity - 1lykkqf: "I feel violated by intern season"], [r/newyorkcity - 1lykkqf: "Am I not the same as they are, just at a longer time horizon? I'm also a transient being in the city."]
+    *   Confidence: Medium (Inferred from a single post)
+*   **Age Range:** Difficult to determine precisely, but the mention of "Millenials" and providing a sociological perspective, combined with discussing career phases and "intern season," might suggest they are likely an adult, perhaps in their late 20s or 30s.
+    *   Evidence: Comment discussing Millennial behavior.
+    *   Citations: [r/AskReddit - mv2xf3q: "Millenials have less kids, so they have more time and money to spend on themselves. Millenials are also getting married less and later in life, meaning we allocate more effort on self care"]
+    *   Confidence: Low (Speculative based on limited data)
 
 Psychographics:
-- Interests:
-    - Strategy/Simulation Gaming: Highly engaged in games like Manor Lords and Civilization V, discussing strategy and mechanics.
-        - Evidence: [n2r16t2: "Sorry to hear that man, in the future you may want to have multiple granaries..."]
-        - Evidence: [n1089i9: "That proximity is ridiculous, deep mining, two fishing huts..."]
-        - Evidence: [mk73w0o: "Can’t really discuss this without your strategy."]
-        - Evidence: [m8gl211: "Would you be interested in a trade agreement with England?"]
-    - Artificial Intelligence & Technology: Curious about generative AI capabilities, particularly image/video consistency.
-        - Evidence: [n2b07h0: "Incredible stuff! How did you maintain character consistency?"]
-        - Evidence: [ml31o85: "It’s pretty hard to get consistent characters when they’re photorealistic tbh."]
-        - Evidence: [mk4no36: "imagine making 60fps videos with photos from OAI images. nothing on the internet can be trusted"]
-    - New York City Culture & Lifestyle: Discusses city life, dining, and social dynamics.
-        - Evidence: [1lykkqf: "I feel violated by intern season"]
-        - Evidence: [mxxhvpf: "Breakfast - Buvette... Drinks - Double chicken please"]
-    - Specific Fandom (One Piece): Shows knowledge of the series, including linguistic and cultural aspects.
-        - Evidence: [mswlma6: "Closest expression is naraku ochi 奈落落ち... Source: I’m Japanese"]
-        - Evidence: [mpo38g6: "Fyi it says “Dear mom, everything I encounter from now is thanks to you”"]
-    - Programming/Technical (Minor): Engaged briefly in a coding-related discussion.
-        - Evidence: [mmih39e: "how did you make that diagram? I've been doing it in ascii lol"]
-    - Finance/Crypto (Minor): Holds strong opinions on the state of the NFT market.
-        - Evidence: [mvt4t5c: "- the NFT craze has not settled into something sustainable, it's dead."]
-- Values: Values self-care, strategic thinking, likely cultural knowledge, and potentially authenticity (regarding AI).
-- Personality Traits:
-    - Observational & Reflective: Notices details in their environment and reflects on their own place or perspective.
-        - Evidence: [1lykkqf: "Today when I went to the bar and all of a sudden I felt like I was at a college basement party." "But then again, I thought to myself. Am I not the same as they are, just at a longer time horizon?"]
-    - Opinionated: Expresses clear and often strong viewpoints on various topics.
-        - Evidence: [n1i5k2p: "Too little late game content"]
-        - Evidence: [mvt4t5c: "- the NFT craze has not settled into something sustainable, it's dead."]
-        - Evidence: [n1089i9: "imo trading raw materials is easier than trading crafted goods in the current build."]
-    - Helpful & Informative: Shares knowledge, advice, and explanations within specific communities.
-        - Evidence: [n2r16t2: "in the future you may want to have multiple granaries..."]
-        - Evidence: [mdxgebg: "This happens when you are in an advanced technological era than the AI. You can adjust to only give them gold..."]
-        - Evidence: [mswlma6: "Closest expression is naraku ochi 奈落落ち... Source: I’m Japanese"]
-    - Culturally Aware: Demonstrates specific knowledge, particularly regarding Japanese language and culture.
-        - Evidence: [mswlma6: "Source: I’m Japanese"]
-    - Humorous/Sarcastic (Occasional): Uses hyperbole or brief, potentially humorous statements.
-        - Evidence: [1lykkqf: "personal orgy dome," "Naturally I felt violated"]
-        - Evidence: [mtnzw3v: "I wore a toga. she showed up in regular clothes"]
-Confidence Level: High (Interests, Personality Traits), Moderate (Values)
+*   **Interests:**
+    *   Strategy/Simulation Games (Manor Lords, Civ 5, Project Zomboid): Deep engagement with gameplay mechanics and sharing tips.
+        *   Evidence: High frequency of comments in game-specific subreddits, offering gameplay advice.
+        *   Citations: [r/ManorLords - n2r16t2: "Sorry to hear that man, in the future you may want to have multiple granaries, one close to your berries/deer/fish and one for your veggies/apples/honey."], [r/civ5 - mdxgebg: (Comment about Civ 5 gameplay)], [r/AskReddit - m8gl211: "Would you be interested in a trade agreement with England?"]
+        *   Confidence: High
+    *   AI and Technology (ChatGPT, RooCode): Curiosity about current AI capabilities and related tools.
+        *   Evidence: Comments in AI/tech subreddits.
+        *   Citations: [r/ChatGPT - n2b07h0: (Comment in ChatGPT thread)], [r/RooCode - mmih39e: "how did you make that diagram? I've been doing it in ascii lol"], [r/ChatGPTJailbreak - mk4no36: (Comment in ChatGPT Jailbreak thread)]
+        *   Confidence: High
+    *   New York City Life (Food, Transit, Culture): Active interest in various aspects of living in or experiencing NYC.
+        *   Evidence: Participation across multiple NYC-focused subreddits.
+        *   Citations: [r/newyorkcity - 1lykkqf: "I feel violated by intern season"], [r/FoodNYC - mxxhvpf: (Comment in thread about NYC food)], [r/nycrail - mt02ziy: (Comment in thread about NYC rail)]
+        *   Confidence: High
+    *   Anime/Manga (One Piece): Engagement with specific pop culture franchises.
+        *   Evidence: Comments in dedicated subreddit.
+        *   Citations: [r/OnePiece - mswlma6: (Comment in One Piece thread)], [r/OnePiece - mpo38g6: (Comment in One Piece thread)]
+        *   Confidence: Medium
+*   **Values:**
+    *   Practicality/Efficiency (in gaming): Focuses on effective strategies and resource management in game contexts.
+        *   Evidence: Gameplay advice provided.
+        *   Citations: [r/ManorLords - n2r16t2: "Sorry to hear that man, in the future you may want to have multiple granaries, one close to your berries/deer/fish and one for your veggies/apples/honey."]
+        *   Confidence: High (within gaming context)
+    *   Skepticism/Caution (regarding emerging tech): Questions the long-term viability and potential misuse of new technologies like NFTs and AI media generation.
+        *   Evidence: Critical comments in NFT and AI-related subreddits.
+        *   Citations: [r/NFT - mvt4t5c: "That alone should tell you that NFTs are no longer something people are interested in."], [r/ChatGPTJailbreak - mk4no36: "imagine making 60fps videos with photos from OAI images. nothing on the internet can be trusted"]
+        *   Confidence: High
+    *   Observational/Reflective: Inclined to process personal experiences and observe broader social/environmental changes.
+        *   Evidence: Content of the single post.
+        *   Citations: [r/newyorkcity - 1lykkqf: "I feel violated by intern season... Am I not the same as they are..."]
+        *   Confidence: Medium (Based on limited post data)
+*   **Personality Traits:**
+    *   Helpful (in niche communities): Provides constructive advice, particularly in gaming.
+        *   Evidence: Nature of comments in gaming subreddits.
+        *   Citations: [r/ManorLords - n2r16t2: "Sorry to hear that man, in the future you may want to have multiple granaries, one close to your berries/deer/fish and one for your veggies/apples/honey."], [r/civ5 - mdxgebg: (Comment offering Civ 5 advice)]
+        *   Confidence: High
+    *   Direct and Concise: Tends to get straight to the point in comments.
+        *   Evidence: General structure and length of comments.
+        *   Citations: [r/RooCode - mmih39e: "how did you make that diagram? I've been doing it in ascii lol"] (Short, direct question), [r/ManorLords - n1hhd7z: "There was a post a while back about this"] (Direct answer)
+        *   Confidence: High
 
 Behavioral Patterns:
-- Online Habits:
-    - Commenter vs. Poster: Significantly higher frequency of commenting compared to posting.
-        - Evidence: [Data Inventory: Posts: 1, Comments: 26]
-    - Activity Spike: Concentration of activity, particularly in the most recent month of the analysis period (July 2025).
-        - Evidence: [Data Inventory: Numerous comments with July 2025 timestamps]
-    - Cross-Subreddit Engagement: Engages in a diverse set of communities reflecting varied interests.
-        - Evidence: [Data Inventory: Participation across ManorLords, ChatGPT, newyorkcity, AskReddit, etc.]
-    - Responsive: Primarily interacts by replying to existing posts and comments.
-- Engagement Preferences: Prefers joining ongoing discussions, sharing insights, and reacting to others' content.
-Confidence Level: High
+*   **Online Habits:** Primarily a commenter, rarely creates posts. Engages across various topics but shows concentration in gaming and NYC-related subreddits. Activity levels fluctuate, with a notable recent spike.
+    *   Evidence: Comment-to-post ratio, subreddit engagement frequency, timestamps of activity.
+    *   Citations: (Overall activity data - 26 comments, 1 post), (Frequency in specific subreddits like r/ManorLords), (Distribution of timestamps over time)
+    *   Confidence: High
+*   **Engagement Preferences:** Prefers joining existing discussions rather than initiating them. Engages in both specific niche communities (gaming, NYC, tech) and broader forums (AskReddit).
+    *   Evidence: High comment-to-post ratio, range of subreddits visited.
+    *   Citations: (Overall activity data), [r/AskReddit - mv2xf3q: (Comment in AskReddit thread)]
+    *   Confidence: High
+*   **Time of Activity:** Activity is spread out, including some comments made late at night (based on timestamps relative to Eastern Time assumption from NYC location).
+    *   Evidence: Timestamps on comments (e.g., m7grdiv - 21:11, ml31o85 - 01:51, mezpeha - 06:36, m8gl211 - 07:08 - UTC, convert for local time). Assuming NYC (EST/EDT), 01:51 UTC is ~9 PM EST, 06:36 UTC is ~1:36 AM EST, 07:08 UTC is ~2:08 AM EST.
+    *   Citations: (Timestamps on comments) [m7grdiv - 2025-01-16T21:11:53 UTC], [ml31o85 - 2025-04-03T01:51:41 UTC], [mezpeha - 2025-02-27T06:36:06 UTC], [m8gl211 - 2025-01-22T07:08:10 UTC]
+    *   Confidence: Medium (Assumption about local timezone)
 
 Goals and Motivations:
-- Mastery in Gaming: Seeks to understand game mechanics and optimize strategies.
-    - Evidence: [n2r16t2, n1089i9, mk73w0o - all discuss game strategy/mechanics]
-- Understanding Technological Advancement: Interested in the capabilities and implications of new tech like AI.
-    - Evidence: [n2b07h0, ml31o85, mk4no36 - all discuss AI features/implications]
-- Experiencing Urban Life: Engaged with discussions and observations about living in NYC.
-    - Evidence: [1lykkqf, mxxhvpf, mexk4g8 - all NYC related]
-- Sharing Expertise: Motivated to share knowledge and help others within communities.
-    - Evidence: [n2r16t2, mswlma6, mdxgebg - all provide information/advice]
-- Connecting with Like Minds: Participation in niche subreddits suggests seeking community around specific interests.
-Confidence Level: Moderate
+*   **Seek Information/Help:** Asks questions in specific communities.
+    *   Evidence: Comments seeking clarification or information (e.g., asking "how did you make that diagram?").
+    *   Citations: [r/RooCode - mmih39e: "how did you make that diagram?"]
+    *   Confidence: High
+*   **Share Knowledge/Experience:** Offers advice and observations, particularly in areas of expertise like gaming.
+    *   Evidence: Helpful comments in gaming subreddits.
+    *   Citations: [r/ManorLords - n2r16t2: "Sorry to hear that man, in the future you may want to have multiple granaries, one close to your berries/deer/fish and one for your veggies/apples/honey."], [r/civ5 - mdxgebg: (Comment offering Civ 5 advice)]
+    *   Confidence: High
+*   **Discuss Shared Interests:** Engages in communities aligned with hobbies (gaming, anime, NYC).
+    *   Evidence: Frequency of comments in specific subreddits.
+    *   Citations: (Engagement across r/ManorLords, r/civ5, r/OnePiece, r/FoodNYC, etc.)
+    *   Confidence: High
+*   **Express Opinions/Perspectives:** Shares thoughts on broader topics or emerging trends (e.g., NFTs, Millennial behavior).
+    *   Evidence: Comments in AskReddit, NFT, ChatGPTJailbreak subreddits.
+    *   Citations: [r/NFT - mvt4t5c: "I see so so many one-off posts... That alone should tell you that NFTs are no longer something people are interested in."], [r/AskReddit - mv2xf3q: "Millenials have less kids..."], [r/ChatGPTJailbreak - mk4no36: "imagine making 60fps videos... nothing on the internet can be trusted"]
+    *   Confidence: High
+*   **Process Personal Experiences:** Uses Reddit as a platform for reflection on personal feelings and observations.
+    *   Evidence: Content of the single post.
+    *   Citations: [r/newyorkcity - 1lykkqf: "I feel violated by intern season..."]
+    *   Confidence: Medium (Based on limited post data)
 
 Pain Points and Challenges:
-- Negative Urban Experiences: Discomfort or feeling "violated" by changes in city demographics affecting personal spaces.
-    - Evidence: [1lykkqf: "Today when I went to the bar and all of a sudden I felt like I was at a college basement party.", "Naturally I felt violated"]
-- Game Content Limitations: Frustration with lack of depth in the later stages of certain games.
-    - Evidence: [n1i5k2p: "Too little late game content"]
-- Disillusionment with Trends: Views some past hype trends (like NFTs) as having failed or died.
-    - Evidence: [mvt4t5c: "the NFT craze has not settled into something sustainable, it's dead."]
-- Technical Hurdles with AI: Encountering difficulties or limitations when using new AI tools.
-    - Evidence: [ml31o85: "It’s pretty hard to get consistent characters when they’re photorealistic tbh."]
-Confidence Level: Moderate
+*   **Feeling Overwhelmed/Displaced:** Expresses discomfort or feeling "violated" by perceived changes in their environment (NYC nightlife demographic shift due to interns).
+    *   Evidence: Content and sentiment of the single post.
+    *   Citations: [r/newyorkcity - 1lykkqf: "I feel violated by intern season"]
+    *   Confidence: Medium (Based on a single sentiment expressed)
+*   **Market Disillusionment:** Views certain emerging markets or trends (like NFTs) as potentially dead or lacking substance, despite initial interest.
+    *   Evidence: Critical comment in r/NFT.
+    *   Citations: [r/NFT - mvt4t5c: "That alone should tell you that NFTs are no longer something people are interested in. I'd love to be proven wrong... but so far it seems like the community is dead"]
+    *   Confidence: High (Specific sentiment expressed)
+*   **Concern over AI Misuse:** Worried about the potential for AI to create misleading or untrustworthy content.
+    *   Evidence: Comment expressing caution about AI video generation.
+    *   Citations: [r/ChatGPTJailbreak - mk4no36: "imagine making 60fps videos with photos from OAI images. nothing on the internet can be trusted"]
+    *   Confidence: High (Specific sentiment expressed)
 
 Communication Style and Preferences:
-- Informal and Conversational: Uses casual language suitable for online forums.
-    - Evidence: [n2r16t2: "Sorry to hear that man"]
-    - Evidence: [n1089i9: "imo trading raw materials is easier"]
-- Direct and Concise: Communicates points clearly and efficiently.
-    - Evidence: [mtnzw3v: "I wore a toga. she showed up in regular clothes"]
-    - Evidence: [mmih39e: "how did you make that diagram?"]
-- Willing to Elaborate: Provides detailed explanations when the topic requires it.
-    - Evidence: [n1089i9, mvt4t5c - provide detailed breakdowns]
-- Responsive: Primarily interacts by replying to existing content.
-Confidence Level: High
+*   **Style:** Direct, concise, casual, sometimes uses sociological or analytical framing (e.g., discussing Millenials), helpful in response to questions or issues, reflective in personal sharing.
+    *   Evidence: Language used across various comments and the post.
+    *   Citations: [r/ManorLords - n2r16t2: (Helpful)], [r/AskReddit - mv2xf3v: (Analytical)], [r/newyorkcity - 1lykkqf: (Reflective)], [r/RooCode - mmih39e: (Direct)]
+    *   Confidence: High
+*   **Engagement Preferences:** Prefers engaging with existing content (commenting) over creating new content (posting). Responsive in communities where they have expertise or strong interest.
+    *   Evidence: Comment-to-post ratio, focus of comments in specific subreddits.
+    *   Citations: (Overall activity data - ratio), (Concentration of comments in r/ManorLords)
+    *   Confidence: High
 
-Cultural Notes:
-- Identifies as Japanese, providing cultural/linguistic context in discussions.
-    - Evidence: [mswlma6: "Source: I’m Japanese"]
+Confidence Levels:
+Confidence levels for characteristics are assigned based on the frequency and strength of evidence. High confidence indicates multiple supporting data points or a very clear statement. Medium confidence indicates support from one or a few data points, or interpretation required. Low confidence indicates speculative inference.
 
 Methodology Notes:
-This persona was constructed based on publicly available Reddit posts and comments from the user kojied over approximately the last 6 months (2025-01-14 to 2025-07-14), as provided in the source data report. Analysis involved identifying recurring themes in subreddit participation, comment content, language used, and sentiment expressed. Characteristics were inferred from direct statements, recurring patterns, and the topics of discussion. Each characteristic identified is supported by specific citations linking back to the original Reddit content (using Reddit ID for comments and post ID for the single post). Confidence levels are assigned based on the strength and frequency of supporting evidence. An empty bio limits direct self-description, making some inferences necessary.
-
-Generated On: 2025-07-14
-Analysis Timeframe: Last 6 months
-User Profile: https://www.reddit.com/user/kojied/
+This persona was constructed by analyzing public Reddit activity (posts and comments) of the user 'kojied' over approximately the last 6 months (January 14, 2025, to July 14, 2025). Data included post/comment text, associated subreddits, timestamps, and interaction metrics (karma). The analysis focused on identifying recurring themes, behavioral patterns, expressed sentiments, and demographic indicators within the content. Characteristics are supported by direct citations to the original Reddit content. Due to the limited nature of the data (only 1 post and 26 comments in the timeframe), some aspects of the persona, particularly demographics and deep-seated motivations, are based on inference and have lower confidence levels.

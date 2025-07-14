@@ -19,7 +19,6 @@ redditcrew
 ├── output                             # Outputs storage (as text files)
 ├── knowledge
 │   └── user_preference.txt            # User context (e.g., AI Engineer, Maharashtra, India)
-├── kojied_persona.txt                 # Additional sample persona output
 ├── pyproject.toml                     # Project configuration and dependencies
 ├── report.md                          # Generated persona report
 ├── src

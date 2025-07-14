@@ -1,0 +1,52 @@
+research_task:
+  description: >
+    Conduct comprehensive data extraction and analysis of Reddit user profile: {user_profile_url}
+    Scrape all available posts and comments from the user's profile, analyzing:
+    - Posting frequency and timing patterns
+    - Subreddit participation and engagement levels
+    - Comment sentiment and interaction styles
+    - Content themes and recurring topics
+    - Language patterns and communication style
+    - Demographic indicators and personal interests
+    Ensure data collection covers at least {data_timeframe} of user activity.
+    Current analysis date: {current_date}
+  expected_output: >
+    A structured data collection report containing:
+    - Complete inventory of scraped posts and comments with timestamps
+    - 10-15 key behavioral patterns identified from user activity
+    - Categorized content themes with frequency analysis
+    - Notable quotes and representative content samples
+    - Preliminary persona characteristics with supporting evidence
+    All findings must include specific post/comment citations for traceability.
+  agent: researcher
+
+reporting_task:
+  description: >
+    Transform the research findings into a comprehensive user persona for {user_profile_url}
+    Create a detailed user persona following standard persona template structure:
+    - Demographics (age range, location indicators, occupation clues)
+    - Psychographics (interests, values, personality traits)
+    - Behavioral patterns (online habits, engagement preferences)
+    - Goals and motivations (inferred from content themes)
+    - Pain points and challenges (identified through sentiment analysis)
+    - Communication style and preferences
+
+    For EVERY characteristic identified, provide specific citations to the Reddit posts/comments 
+    that support that conclusion. Format citations as [Post/Comment URL or ID: "relevant quote"]
+    
+    User profile being analyzed: {user_profile_url}
+    Analysis timeframe: {data_timeframe}
+    Generated on: {current_date}
+
+  expected_output: >
+    A complete user persona document formatted as a text file (.txt) containing:
+    - Executive summary of the user
+    - Detailed persona sections with full descriptions
+    - Evidence-based characteristics with direct citations
+    - Supporting quotes and examples from actual posts/comments
+    - Confidence levels for each persona trait
+    - Methodology notes explaining analytical approach
+
+    Format as clean text (no markdown formatting) suitable for direct file output.
+    Each persona characteristic must include at least one specific citation.
+  agent: reporting_analyst

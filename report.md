@@ -1,0 +1,115 @@
+User Persona: kojied
+
+Executive Summary:
+Kojied is a Reddit user active over the last six months, primarily engaging through comments rather than posts. Their activity saw a notable increase in July 2025. Core interests include strategy and simulation games (like Manor Lords and Civilization), artificial intelligence, and navigating life in New York City. They also engage in specific niche communities such as One Piece and RooCode, and contribute to general discussions on AskReddit. Kojied is characterized by observational insights, clearly stated opinions, a helpful demeanor, and awareness of Japanese language and culture. They likely identify as a Millennial.
+
+Demographics:
+- Age Range: Likely Millennial (born roughly 1981-1996). Inferred from self-reference and contextual clues.
+    - Evidence: [mv2xf3q: "Millenials have less kids, so they have more time and money to spend on themselves."]
+    - Evidence: [1lykkqf: "Then a girl pointed at me and referred to me as the old person." "tens of thousands of 18 year-old 19 year-old 20-year-olds"]
+- Location Indicators: New York City. Strong evidence from participation in NYC-specific subreddits and a post detailing experiences within the city.
+    - Evidence: [1lykkqf: "There's this bar that I frequent a few blocks away from my house."]
+    - Evidence: [1lykkqf: "New York City is equally adventurous to each, so who am I to judge how others enjoy this adventurous city."]
+    - Evidence: [mexk4g8: "Daytime bathhouse"]
+    - Evidence: [mxxhvpf: "Breakfast - Buvette... Drinks - Double chicken please"]
+- Occupation Clues: Limited, potentially works in a professional environment where interns are present, or is an observer of urban dynamics.
+    - Evidence: [1lykkqf: "I feel violated by intern season"]
+Confidence Level: Moderate (Age), High (Location), Low (Occupation)
+
+Psychographics:
+- Interests:
+    - Strategy/Simulation Gaming: Highly engaged in games like Manor Lords and Civilization V, discussing strategy and mechanics.
+        - Evidence: [n2r16t2: "Sorry to hear that man, in the future you may want to have multiple granaries..."]
+        - Evidence: [n1089i9: "That proximity is ridiculous, deep mining, two fishing huts..."]
+        - Evidence: [mk73w0o: "Can’t really discuss this without your strategy."]
+        - Evidence: [m8gl211: "Would you be interested in a trade agreement with England?"]
+    - Artificial Intelligence & Technology: Curious about generative AI capabilities, particularly image/video consistency.
+        - Evidence: [n2b07h0: "Incredible stuff! How did you maintain character consistency?"]
+        - Evidence: [ml31o85: "It’s pretty hard to get consistent characters when they’re photorealistic tbh."]
+        - Evidence: [mk4no36: "imagine making 60fps videos with photos from OAI images. nothing on the internet can be trusted"]
+    - New York City Culture & Lifestyle: Discusses city life, dining, and social dynamics.
+        - Evidence: [1lykkqf: "I feel violated by intern season"]
+        - Evidence: [mxxhvpf: "Breakfast - Buvette... Drinks - Double chicken please"]
+    - Specific Fandom (One Piece): Shows knowledge of the series, including linguistic and cultural aspects.
+        - Evidence: [mswlma6: "Closest expression is naraku ochi 奈落落ち... Source: I’m Japanese"]
+        - Evidence: [mpo38g6: "Fyi it says “Dear mom, everything I encounter from now is thanks to you”"]
+    - Programming/Technical (Minor): Engaged briefly in a coding-related discussion.
+        - Evidence: [mmih39e: "how did you make that diagram? I've been doing it in ascii lol"]
+    - Finance/Crypto (Minor): Holds strong opinions on the state of the NFT market.
+        - Evidence: [mvt4t5c: "- the NFT craze has not settled into something sustainable, it's dead."]
+- Values: Values self-care, strategic thinking, likely cultural knowledge, and potentially authenticity (regarding AI).
+- Personality Traits:
+    - Observational & Reflective: Notices details in their environment and reflects on their own place or perspective.
+        - Evidence: [1lykkqf: "Today when I went to the bar and all of a sudden I felt like I was at a college basement party." "But then again, I thought to myself. Am I not the same as they are, just at a longer time horizon?"]
+    - Opinionated: Expresses clear and often strong viewpoints on various topics.
+        - Evidence: [n1i5k2p: "Too little late game content"]
+        - Evidence: [mvt4t5c: "- the NFT craze has not settled into something sustainable, it's dead."]
+        - Evidence: [n1089i9: "imo trading raw materials is easier than trading crafted goods in the current build."]
+    - Helpful & Informative: Shares knowledge, advice, and explanations within specific communities.
+        - Evidence: [n2r16t2: "in the future you may want to have multiple granaries..."]
+        - Evidence: [mdxgebg: "This happens when you are in an advanced technological era than the AI. You can adjust to only give them gold..."]
+        - Evidence: [mswlma6: "Closest expression is naraku ochi 奈落落ち... Source: I’m Japanese"]
+    - Culturally Aware: Demonstrates specific knowledge, particularly regarding Japanese language and culture.
+        - Evidence: [mswlma6: "Source: I’m Japanese"]
+    - Humorous/Sarcastic (Occasional): Uses hyperbole or brief, potentially humorous statements.
+        - Evidence: [1lykkqf: "personal orgy dome," "Naturally I felt violated"]
+        - Evidence: [mtnzw3v: "I wore a toga. she showed up in regular clothes"]
+Confidence Level: High (Interests, Personality Traits), Moderate (Values)
+
+Behavioral Patterns:
+- Online Habits:
+    - Commenter vs. Poster: Significantly higher frequency of commenting compared to posting.
+        - Evidence: [Data Inventory: Posts: 1, Comments: 26]
+    - Activity Spike: Concentration of activity, particularly in the most recent month of the analysis period (July 2025).
+        - Evidence: [Data Inventory: Numerous comments with July 2025 timestamps]
+    - Cross-Subreddit Engagement: Engages in a diverse set of communities reflecting varied interests.
+        - Evidence: [Data Inventory: Participation across ManorLords, ChatGPT, newyorkcity, AskReddit, etc.]
+    - Responsive: Primarily interacts by replying to existing posts and comments.
+- Engagement Preferences: Prefers joining ongoing discussions, sharing insights, and reacting to others' content.
+Confidence Level: High
+
+Goals and Motivations:
+- Mastery in Gaming: Seeks to understand game mechanics and optimize strategies.
+    - Evidence: [n2r16t2, n1089i9, mk73w0o - all discuss game strategy/mechanics]
+- Understanding Technological Advancement: Interested in the capabilities and implications of new tech like AI.
+    - Evidence: [n2b07h0, ml31o85, mk4no36 - all discuss AI features/implications]
+- Experiencing Urban Life: Engaged with discussions and observations about living in NYC.
+    - Evidence: [1lykkqf, mxxhvpf, mexk4g8 - all NYC related]
+- Sharing Expertise: Motivated to share knowledge and help others within communities.
+    - Evidence: [n2r16t2, mswlma6, mdxgebg - all provide information/advice]
+- Connecting with Like Minds: Participation in niche subreddits suggests seeking community around specific interests.
+Confidence Level: Moderate
+
+Pain Points and Challenges:
+- Negative Urban Experiences: Discomfort or feeling "violated" by changes in city demographics affecting personal spaces.
+    - Evidence: [1lykkqf: "Today when I went to the bar and all of a sudden I felt like I was at a college basement party.", "Naturally I felt violated"]
+- Game Content Limitations: Frustration with lack of depth in the later stages of certain games.
+    - Evidence: [n1i5k2p: "Too little late game content"]
+- Disillusionment with Trends: Views some past hype trends (like NFTs) as having failed or died.
+    - Evidence: [mvt4t5c: "the NFT craze has not settled into something sustainable, it's dead."]
+- Technical Hurdles with AI: Encountering difficulties or limitations when using new AI tools.
+    - Evidence: [ml31o85: "It’s pretty hard to get consistent characters when they’re photorealistic tbh."]
+Confidence Level: Moderate
+
+Communication Style and Preferences:
+- Informal and Conversational: Uses casual language suitable for online forums.
+    - Evidence: [n2r16t2: "Sorry to hear that man"]
+    - Evidence: [n1089i9: "imo trading raw materials is easier"]
+- Direct and Concise: Communicates points clearly and efficiently.
+    - Evidence: [mtnzw3v: "I wore a toga. she showed up in regular clothes"]
+    - Evidence: [mmih39e: "how did you make that diagram?"]
+- Willing to Elaborate: Provides detailed explanations when the topic requires it.
+    - Evidence: [n1089i9, mvt4t5c - provide detailed breakdowns]
+- Responsive: Primarily interacts by replying to existing content.
+Confidence Level: High
+
+Cultural Notes:
+- Identifies as Japanese, providing cultural/linguistic context in discussions.
+    - Evidence: [mswlma6: "Source: I’m Japanese"]
+
+Methodology Notes:
+This persona was constructed based on publicly available Reddit posts and comments from the user kojied over approximately the last 6 months (2025-01-14 to 2025-07-14), as provided in the source data report. Analysis involved identifying recurring themes in subreddit participation, comment content, language used, and sentiment expressed. Characteristics were inferred from direct statements, recurring patterns, and the topics of discussion. Each characteristic identified is supported by specific citations linking back to the original Reddit content (using Reddit ID for comments and post ID for the single post). Confidence levels are assigned based on the strength and frequency of supporting evidence. An empty bio limits direct self-description, making some inferences necessary.
+
+Generated On: 2025-07-14
+Analysis Timeframe: Last 6 months
+User Profile: https://www.reddit.com/user/kojied/

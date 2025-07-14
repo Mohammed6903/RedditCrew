@@ -15,8 +15,8 @@ Redditcrew is a sophisticated multi-agent AI system built using [crewAI](https:/
 ## Project Structure
 ```
 redditcrew
-├── Hungry-Move-6603_UserPersona.txt   # Sample user persona output
 ├── README.md                          # Project documentation
+├── output                             # Outputs storage (as text files)
 ├── knowledge
 │   └── user_preference.txt            # User context (e.g., AI Engineer, Maharashtra, India)
 ├── kojied_persona.txt                 # Additional sample persona output
@@ -34,7 +34,6 @@ redditcrew
 │           ├── __init__.py           # Tools package initialization
 │           └── reddit_user_scraper_tool.py  # Custom Reddit scraping tool
 ├── tests                              # Unit tests (to be implemented)
-├── u_Hungry-Move-6603_Persona.txt    # Duplicate persona file
 └── uv.lock                           # Dependency lock file
 ```
 

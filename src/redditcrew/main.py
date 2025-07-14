@@ -19,11 +19,11 @@ def run():
     Run the crew.
     """
     inputs = {
-        "user_profile_url": "https://www.reddit.com/user/kojied/",
-        "data_timeframe": "6 monts",
+        "user_profile_url": "https://www.reddit.com/user/Hungry-Move-6603",
+        "data_timeframe": "1 year",
         "current_date": str(datetime.now().strftime("%Y-%m-%d")),
-        "output_filename": "user_persona_kojied.txt",
-        "min_posts_required": 5,
+        "output_filename": "user_persona_hungry_move.txt",
+        "min_posts_required": 10,
         "confidence_threshold": 0.7,
         "citation_format": "APA",
     }
@@ -39,10 +39,10 @@ def train():
     Train the crew for a given number of iterations.
     """
     inputs = {
-        "user_profile_url": "https://www.reddit.com/user/kojied/",
+        "user_profile_url": "https://www.reddit.com/user/Hungry-Move-6603",
         "data_timeframe": "6 monts",
         "current_date": str(datetime.now().strftime("%Y-%m-%d")),
-        "output_filename": "user_persona_kojied.txt",
+        "output_filename": "user_persona_hungry_move.txt",
         "min_posts_required": 5,
         "confidence_threshold": 0.7,
         "citation_format": "APA",
@@ -72,10 +72,10 @@ def test():
     Test the crew execution and returns the results.
     """
     inputs = {
-        "user_profile_url": "https://www.reddit.com/user/kojied/",
+        "user_profile_url": "https://www.reddit.com/user/Hungry-Move-6603",
         "data_timeframe": "6 monts",
         "current_date": str(datetime.now().strftime("%Y-%m-%d")),
-        "output_filename": "user_persona_kojied.txt",
+        "output_filename": "user_persona_hungry_move.txt",
         "min_posts_required": 5,
         "confidence_threshold": 0.7,
         "citation_format": "APA",

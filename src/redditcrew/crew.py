@@ -1,12 +1,9 @@
 from crewai import Agent, Crew, Process, Task
 from crewai.project import CrewBase, agent, crew, task
 from crewai.agents.agent_builder.base_agent import BaseAgent
-from crewai_tools import SerperDevTool, FileWriterTool
 from .tools.reddit_user_scraper_tool import RedditUserScraperTool
 from typing import List
 
-search_tool = SerperDevTool()
-file_writer_tool = FileWriterTool()
 reddit_scraper_tool = RedditUserScraperTool()
 
 
@@ -22,7 +19,7 @@ class Redditcrew:
         return Agent(
             config=self.agents_config["researcher"],  # type: ignore[index]
             verbose=True,
-            tools=[search_tool, reddit_scraper_tool],
+            tools=[reddit_scraper_tool],
         )
 
     @agent
@@ -30,7 +27,6 @@ class Redditcrew:
         return Agent(
             config=self.agents_config["reporting_analyst"],  # type: ignore[index]
             verbose=True,
-            tools=[file_writer_tool],
         )
 
     @task
@@ -43,7 +39,6 @@ class Redditcrew:
     def reporting_task(self) -> Task:
         return Task(
             config=self.tasks_config["reporting_task"],  # type: ignore[index]
-            output_file="report.md",
         )
 
     @crew

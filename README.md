@@ -60,11 +60,10 @@ Ensure Python 3.10–3.13 is installed. The project uses UV for dependency manag
    ```
 
 3. **Set Environment Variables**:
-   Create a `.env` file in the project root and add these variables. Make sure to create a Reddit app to obtain the necessary Client ID and Client Secret and sign up for gemini api from google ai studio to get gemini api key. Also, go to https://serper.dev to get SERPER_API_KEY:
+   Create a `.env` file in the project root and add these variables. Make sure to create a Reddit app to obtain the necessary Client ID and Client Secret and sign up for gemini api from google ai studio to get gemini api key:
    ```
     MODEL=gemini/gemini-2.5-flash-preview-04-17
     GEMINI_API_KEY=
-    SERPER_API_KEY=
     REDDIT_USER_AGENT="python:my_crewai_app:v1.0 by /u/userid"
     REDDIT_CLIENT_ID=
     REDDIT_CLIENT_SECRET=

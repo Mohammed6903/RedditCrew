@@ -39,7 +39,7 @@ reporting_task:
     Generated on: {current_date}
 
   expected_output: >
-    A complete user persona document formatted as a text file (.txt) containing:
+    A complete user persona document in plain text:
     - Executive summary of the user
     - Detailed persona sections with full descriptions
     - Evidence-based characteristics with direct citations
@@ -47,6 +47,14 @@ reporting_task:
     - Confidence levels for each persona trait
     - Methodology notes explaining analytical approach
 
+    The citation format should be: {citation_format}
+    Confidence threshold for coming to a conclusion should be: {confidence_threshold}
+
+    Don't include any extra words besides the above output.
+
     Format as clean text (no markdown formatting) suitable for direct file output.
     Each persona characteristic must include at least one specific citation.
   agent: reporting_analyst
+  context:
+    - research_task
+  output_file: output/{output_filename}

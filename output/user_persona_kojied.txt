@@ -1,0 +1,368 @@
+Executive Summary
+
+This persona, derived from a year of Reddit activity (July 2024 - July 2025), characterizes u/kojied as "The Strategic Urban Technophile". This individual is likely a resident of New York City, possibly in their mid-20s to early 30s, with a background or strong interest in technology and potentially navigating early to mid-career challenges, including those related to visas or internships. They demonstrate a keen interest in strategy games (Civilization V, Manor Lords), often providing detailed, analytical advice. Concurrently, they are deeply engaged with NYC-specific content, offering recommendations and observations about city life. The user also shows interest in emerging technology (AI, VR), entertainment (anime, movies), and broader social/economic topics, approaching discussions with a pragmatic, opinionated, and sometimes cynical perspective. Their communication style is direct, informative, and incorporates casual internet slang.
+
+Demographics
+
+Age Range: Early 20s to Early 30s
+Confidence: 0.7
+Rationale: Engages in r/GenZ discussions about childhood movies and appearance/dating advice, while also commenting on career topics like H1B visas and "intern season," which often affect early-career professionals.
+Citations:
+[1erotgn: "What’s a movie that best represents your childhood?"]
+[ltr38yh: "First of all you look good! But if you want to become more \"conventionally attractive\", here are some of my suggestions."]
+[ltqzj9f: "I think you should just shave it off entirely."]
+[lxopx3y: "I’ve noticed those in their early 20s aren’t really good at conversations... Is there a certain demographic you tend to match with? (Race, age, career)"]
+[1lykkqf: "I feel violated by intern season"]
+[1hnx8j0: "H1B holders, what are your thoughts on the narrative that you are being exploited?"]
+
+Location Indicators: New York City, USA
+Confidence: 0.9
+Rationale: Frequent and specific engagement in NYC-related subreddits (r/AskNYC, r/FoodNYC, r/nycrail, r/newyorkcity), providing detailed recommendations for restaurants, museums, and transportation.
+Citations:
+[1lykkqf: "I feel violated by intern season", subreddit: newyorkcity]
+[mxxhvpf: "Breakfast - Buvette Coffee - Lyria Lunch - Tsukemen okiboru Coffee - La cabra Dinner - Isodi Drinks - Double chicken please", subreddit: FoodNYC]
+[mexk4g8: "Daytime bathhouse", subreddit: AskNYC]
+[m4j0ese: "Not in Chelsea but Washington square park has the pigeon whisperer... Also the corner of 46th and 6Av always has insane number of pigeons.", subreddit: AskNYC]
+[m453mqo: "Cloisters, Noguchi museum, more art galleries", subreddit: AskNYC]
+[m1qihqd: "They're in the middle so they can see the door closing... Other trains probably have sensors...", subreddit: nycrail]
+[m1ax9to: "I’m down to help! Do it at wsp and put up fliers around the city.", subreddit: AskNYC]
+[lzi30jy: "Don’t walk slow. If you’re going to admire the view do it out of the way of pedestrians", subreddit: AskNYC]
+[lzfhgsj: "Whole pie: John’s on Bleecker... Slice: Lucia Pizza of SoHo", subreddit: FoodNYC]
+[lyyqsop: "The Coach USA bus takes you to Penn station, Bryant Park, or Grand central.", subreddit: AskNYC]
+[lyei609: "My personal experience has definitely gotten worse... Flight delays are expected... overall service quality seems to have degraded", subreddit: AskNYC]
+[lxifvet: "In person 100% You never know if it fits you unless you see it irl... at the rag&bone one the other day for $130", subreddit: AskNYC]
+[lxfmito: "At that height you should check out 260 sample sale... APC, Acne studios, Rag&Bone, Maison kitsune... second street for second hand clothing.", subreddit: AskNYC]
+[mt02ziy: "Sent dm!", subreddit: nycrail]
+[ln00ba5: "I remember they were doing all of 10th avenue or something for 20 blocks and it was horrible!", subreddit: NYCbike]
+
+Occupation Clues: Potential background in tech, possibly navigating visa processes or early career stages.
+Confidence: 0.75
+Rationale: Posts/comments about H1B visas and "intern season" strongly suggest involvement in a field where these are relevant. Comments about AI/ChatGPT and GCP credits hint at a tech-adjacent or tech-utilizing role.
+Citations:
+[1hnx8j0: "H1B holders, what are your thoughts on the narrative that you are being exploited?"]
+[1hnx7lj: "H1B holders, do you feel exploited, or see it as an opportunity to build a better life for you in the US?"]
+[1lykkqf: "I feel violated by intern season"]
+[m49vhkh: "Little do they know many “top American colleges” have a ton of international students on an F1 visa, which leads to STEM OPT and (hopefully) to an H1B visa."]
+[m14y4pr: "Our GCP Credits hard at work haha"]
+[n2b07h0: "Incredible stuff! How did you maintain character consistency? Did you generate a consistent character image and then use the image-to-video feature?"]
+[ml31o85: "It’s pretty hard to get consistent characters when they’re photorealistic tbh... Any tips for photo realism would be appreciated!"]
+[mk4no36: "imagine making 60fps videos with photos from OAI images. nothing on the internet can be trusted"]
+
+Psychographics
+
+Interests:
+- Strategy Gaming (Civilization V, Manor Lords, Project Zomboid): Deep engagement with game mechanics, optimal strategies, and community discussions.
+Confidence: 0.95
+Citations:
+[n2r16t2: "Sorry to hear that man, in the future you may want to have multiple granaries... Also I just store ale at the tavern...", subreddit: ManorLords]
+[n1i5k2p: "I do too but I rarely finish a game haha. Too little late game content", subreddit: ManorLords]
+[n1hhd7z: "You have to kill the bandit units, or donate crop yields...", subreddit: ManorLords]
+[n1089i9: "That proximity is ridiculous, deep mining, two fishing huts... imo trading raw materials is easier than trading crafted goods...", subreddit: ManorLords]
+[mzopv8i: "Yeah I was doing alright and then as soon as I upgraded to tier 3 my town was in shambles.", subreddit: ManorLords]
+[mzc2uit: "So in general each family will eat each type of food equally... Eggs I believe each plot only produces one per month...", subreddit: ManorLords]
+[mk73w0o: "Can’t really discuss this without your strategy. If you’re setting up on the coast over river, your strategy must involve maritime trades.", subreddit: civ5]
+[mdxgebg: "This happens when you are in an advanced technological era than the AI. You can adjust to only give them gold, or other resources...", subreddit: civ5]
+[m4dyqsa: "Also left, considering there’ll be an awkward gap between your 3rd city, where AI civs will most likely try to spam settlers into if you’re not careful,", subreddit: civ5]
+[m4dcgg6: "Venice and Austria are annoying since they buy city states, skewing with the world congress votes.", subreddit: civ5]
+[m4dbpn9: "It’s a hard balance to strike, since without growth tiles you can’t reach a pop to build Petra before the AI does...", subreddit: civ5]
+[m0lub7c: "That’s a good suggestion. I’ve found the level below to be too easy doing the optimal route, so will try that", subreddit: civ5]
+[m0jx8h5: "The optimal strategy I've discovered is the following 1. rush artist/writer slots... 10. go dominate or yeet off to space", subreddit: civ5]
+[m0a6ok5: "Hermit with internal trade routes, max rationalism, work every specialist slot, bulb scientists, yeet off to space.", subreddit: civ5]
+[ltr38yh: "If you're in Japan just buy them there it's cheaper haha"] (Hinting at potential travel or origin, though not confirmed location)
+[lrf0nnw: "fyi aircrafts don't get this benefit, so building a city next to it won't be worth it", subreddit: civ5]
+[lqb18ti: "There are some key technologies which can give you significant advantage in the early game... if you're playing king or emperor it should be a decent strat.", subreddit: civ5]
+[lpyweyu: "Is there a mod which automatically does this? Would be very helpful :/", subreddit: civ5]
+[lpqalrm: "It’s a combination of multiple factors, your military strength, the amount of GPT/luxury you can offer... What seems to impact it the most is how bloodthirsty the AI is.", subreddit: civ5]
+[lpo4k9e: "It depends on who’s my neighbor, if they’re peaceful it’s not too hard... Try to pit them against each other by bribing them to go to war...", subreddit: civ5]
+[ly3ovey: "You should spam cheap units like scouts into their territory so their units are forced into moving west,", subreddit: civ5]
+[lxvjw46: "The problem is that tithe is so op, and for some reason AI never pick it... so will give it a try though", subreddit: civ5]
+[lvouujm: "Literally me. Diety Persia Petra with Chechen Itza", subreddit: civ5]
+[mezpeha: "Surprised I don’t see project zomboid. Graphics are retro but the game is so well made... Who knew that you needed a pipe wrench...", subreddit: AskReddit]
+[m0wmp5q: "Go to the fire station and stock up on axes... Destroy the staircase to the second floor... If you have the burgler trait Hotwire vehicles... Iykyk", subreddit: AskReddit]
+
+- New York City Exploration: Exploring restaurants, cultural institutions, and navigating city life.
+Confidence: 0.9
+Citations: (See Location Indicators citations above - mxxhvpf, mexk4g8, m4j0ese, m453mqo, m1qihqd, m1ax9to, lzi30jy, lzfhgsj, lyei609, lyyqsop, lxifvet, lxfmito, mt02ziy, ln00ba5)
+
+- Technology and AI: Discussing capabilities, limitations, and implications of AI (ChatGPT, image/video generation) and VR (VisionPro, QuestPro).
+Confidence: 0.85
+Citations:
+[n2b07h0: "Incredible stuff! How did you maintain character consistency? Did you generate a consistent character image and then use the image-to-video feature?", subreddit: ChatGPT]
+[ml31o85: "It’s pretty hard to get consistent characters when they’re photorealistic tbh... Any tips for photo realism would be appreciated!", subreddit: ChatGPT]
+[mk4no36: "imagine making 60fps videos with photos from OAI images. nothing on the internet can be trusted", subreddit: ChatGPTJailbreak]
+[m2nxxav: "You can ask it to alter its speed and complexity of the response... The problem I'm encountering is that it just stops responding after 5 back-and-fourth...", subreddit: ChatGPT]
+[m7grdiv: "Sounds like X", subreddit: ChatGPT]
+[lk3t9ry: "Welp one less hallucination they do", subreddit: ChatGPT]
+[lk3evig: "Did the URL work? That seems like something AI can never really figure out", subreddit: ChatGPT]
+[ly658s7: "I’m not using it as frequently as I had wished. The battery life is too low... I’ve not used it at work yet since it’s socially awkward... When I enter immersive videos on appleTV I love it. It’s the coolest thing in the world.", subreddit: VisionPro]
+[lpuchld: "Keep it going!", subreddit: VisionPro]
+[lmzzlrm: "I appreciate you guys continuing to build this despite the current situation. Please keep it coming!", subreddit: VisionPro]
+[lwmnr1k: "or get lens covers", subreddit: QuestPro]
+[m4aby21: "The most unrealistic part is that 18k will get you a cafe in Paris 🇫🇷 ", subreddit: aivideo]
+
+- Entertainment (Anime, Movies, Art): Discussing specific series (One Piece, Made in Abyss), recommending movies, and appreciating art/museums.
+Confidence: 0.8
+Citations:
+[mswlma6: "Closest expression is naraku ochi 奈落落ち... Source: I’m Japanese", subreddit: OnePiece]
+[mpo38g6: "Fyi it says “Dear mom, everything I encounter from now is thanks to you” (It’s a Mother’s Day special chocolate)", subreddit: OnePiece]
+[m4b9nvl: "Calm down he’s talking about the cloud making the shower,", subreddit: OnePiece]
+[m4a6r4s: "Astute observation", subreddit: OnePiece]
+[m49mtej: "<Spoiler> Also we now know that’s current Bonny,", subreddit: OnePiece]
+[m49mpg3: "Chopper literally a 🦌 ", subreddit: OnePiece]
+[lj1m249: "If the 4 poneglyphs show the coordinates, why do you need 4? Wouldn't 2 be sufficient?", subreddit: OnePiece]
+[lwi7ldf: "Made in Abyss and Akihito Tsukushi. Some say it’s peak anime", subreddit: AskReddit]
+[li6au72: "I'm Japanese, and the translation isn't entirely accurate... The word 未回収 is often used for \"flags\"... he's talking about MiA having a unhappy (or unsatisfying) ending, and that some foreshadowing were not addressed.", subreddit: MadeInAbyss]
+[li2qrn6: "Isodi", subreddit: FoodNYC]
+[lgcnk1k: "Inherent vice", subreddit: LSD]
+[lfvwydd: "close!", subreddit: LSD]
+[lpujkah: "Oh not as incredible ", subreddit: museum]
+[lpucbzy: "This is a painting!? from 1955!? Incredible", subreddit: museum]
+[1erotgn: "What’s a movie that best represents your childhood?", subreddit: GenZ]
+
+- Social and Political Issues: Discussing immigration, wealth inequality, US politics (TikTok ban), and international perspectives (China).
+Confidence: 0.7
+Citations:
+[1hnx8j0: "H1B holders, what are your thoughts on the narrative that you are being exploited?", subreddit: AskReddit]
+[1hnx7lj: "H1B holders, do you feel exploited, or see it as an opportunity to build a better life for you in the US?", subreddit: AskReddit]
+[1h8ddbp: "Are you guys for/against banning Tiktok in the US?", subreddit: Conservative]
+[m49vhkh: "Little do they know many “top American colleges” have a ton of international students on an F1 visa, which leads to STEM OPT and (hopefully) to an H1B visa.", subreddit: LeopardsAteMyFace]
+[m4560kx: "I used to be one, and I’m grateful for the opportunity to find a better life here in the US", subreddit: AskReddit]
+[m454yr1: "I’m hoping people realize after this that it’s not a left or right issue, but rather those with wealth pitting those less fortunate against each other.", subreddit: OptimistsUnite]
+[m0s5zos: "The drain is not swamping", subreddit: LeopardsAteMyFace]
+[lze3b0d: "I’ve noticed this sub is pro-West leaning. If you want a pro-China leaning response you should check out r/sino... I enjoy lurking in both since the answer is somewhere in between.", subreddit: China]
+
+- Sports (Basketball - NBA Warriors): Following the Golden State Warriors, commenting on game performance, players, and league issues.
+Confidence: 0.7
+Citations:
+[m4prpxf: "He used to shoot well and have impact when no one had him on the radar... Now that there’s pressure to perform... he’s not doing so well.", subreddit: warriors]
+[m4av54h: "Ok 5 more min with a 5pt deficit. I’m ready to be disappointed again", subreddit: warriors]
+[m45hfw5: "I’m not going to be disappointed anymore. I know how the warriors give us slight hope just to disappoint", subreddit: warriors]
+[m45hcfu: "Didn’t doubt warriors would lose this one", subreddit: warriors]
+[m45d3eq: "Am I watching basketball with ads or ads with some basketball sprinkled in between", subreddit: warriors]
+[m454lgx: "I’m definitely done after curry... It was awesome seeing an underdog like him demolish taller players... Wemby is an alien... the proliferation of gambling definitely doesn’t help...", subreddit: warriors]
+[m15gny0: "Apparantly you’re the top 1% here on reddit lolol", subreddit: warriors]
+[m14y4pr: "Our GCP Credits hard at work haha", subreddit: warriors]
+[lx3tz1r: "The crazy part is that they still couldn’t get a stop on this play!", subreddit: warriors]
+[1hcopxo: "What needs to happen for the league to review the inconsistencies of the refs?", subreddit: nba]
+
+- Self-Improvement/Lifestyle: Offering advice on appearance, dating, and general life tips.
+Confidence: 0.7
+Citations:
+[ltr38yh: "First of all you look good! But if you want to become more \"conventionally attractive\", here are some of my suggestions... Do away with glasses... Work out... Fashion - Uniqlo is a good start... Eyebrows... Skincare... Hair...", subreddit: GenZ]
+[ltqzj9f: "I think you should just shave it off entirely. Get this shaver...", subreddit: GenZ]
+[lxopx3y: "Dating apps have been normalized but I still would prefer irl encounters compared to apps... I usually take the time to leave quality comments, and around 1/3 of them materialize into matches.", subreddit: seduction]
+[lxifvet: "In person 100% You never know if it fits you unless you see it irl... Also if you have a female friend who’s got good taste in clothes, just ask her what you think would look good in.", subreddit: AskNYC]
+
+Values:
+- Pragmatism: Values practical solutions and realistic perspectives, particularly in gaming strategies and social observations.
+Confidence: 0.8
+Citations:
+[n1089i9: "imo trading raw materials is easier than trading crafted goods in the current build.", subreddit: ManorLords]
+[mk73w0o: "Can’t really discuss this without your strategy... your strategy must involve maritime trades.", subreddit: civ5]
+[m0jx8h5: "The optimal strategy I've discovered is the following...", subreddit: civ5]
+[m454yr1: "I’m hoping people realize after this that it’s not a left or right issue, but rather those with wealth pitting those less fortunate against each other.", subreddit: OptimistsUnite]
+[m454lgx: "But we know none of those are happening, so I’m definitely out.", subreddit: warriors]
+[lze3b0d: "I enjoy lurking in both since the answer is somewhere in between.", subreddit: China]
+[ly658s7: "The battery life is too low to use while flying...", subreddit: VisionPro]
+
+- Opportunity: Appreciates opportunities for self-improvement and building a better life, as seen in the H1B discussion.
+Confidence: 0.7
+Citations:
+[1hnx7lj: "H1B holders, do you feel exploited, or see it as an opportunity to build a better life for you in the US?", subreddit: AskReddit]
+[m4560kx: "I used to be one, and I’m grateful for the opportunity to find a better life here in the US", subreddit: AskReddit]
+
+- Authenticity/Realism: Prefers in-person interactions over apps (dating), values genuine experiences (museums), and is skeptical of hype (NFTs, AI video realism).
+Confidence: 0.8
+Citations:
+[lxopx3y: "Dating apps have been normalized but I still would prefer irl encounters compared to apps.", subreddit: seduction]
+[lxifvet: "In person 100% You never know if it fits you unless you see it irl.", subreddit: AskNYC]
+[mvt4t5c: "the NFT craze has not settled into something sustainable, it's dead.", subreddit: NFT]
+[mk4no36: "imagine making 60fps videos with photos from OAI images. nothing on the internet can be trusted", subreddit: ChatGPTJailbreak]
+[lpucbzy: "This is a painting!? from 1955!? Incredible", subreddit: museum]
+
+Personality Traits:
+- Analytical and Strategic Thinker: Evident in detailed gaming strategy posts and breaking down complex topics.
+Confidence: 0.9
+Citations:
+[m0jx8h5: "The optimal strategy I've discovered is the following...", subreddit: civ5]
+[n1089i9: "That proximity is ridiculous... imo trading raw materials is easier than trading crafted goods...", subreddit: ManorLords]
+[lqb18ti: "There are some key technologies which can give you significant advantage in the early game..."]
+[lj1m249: "If the 4 poneglyphs show the coordinates, why do you need 4? Wouldn't 2 be sufficient?", subreddit: OnePiece]
+
+- Opinionated and Direct: Doesn't shy away from stating opinions clearly, even on potentially sensitive topics.
+Confidence: 0.85
+Citations:
+[mvt4t5c: "the NFT craze has not settled into something sustainable, it's dead... I'd love to be proven wrong, since I feel that there was alot of potential, but so far it seems like the community is dead", subreddit: NFT]
+[m454yr1: "I’m hoping people realize after this that it’s not a left or right issue...", subreddit: OptimistsUnite]
+[m454lgx: "I’m definitely done after curry... get gambling out of the league. But we know none of those are happening, so I’m definitely out.", subreddit: warriors]
+[lze3b0d: "I’ve noticed this sub is pro-West leaning... We all have our biases.", subreddit: China]
+[1lykkqf: "I feel violated by intern season"]
+
+- Helpful and Advice-Oriented: Frequently offers tips and guidance across various topics.
+Confidence: 0.8
+Citations:
+[n2r16t2: "Sorry to hear that man, in the future you may want to have multiple granaries...", subreddit: ManorLords]
+[n1hhd7z: "You have to kill the bandit units, or donate crop yields...", subreddit: ManorLords]
+[m4j0ese: "Not in Chelsea but Washington square park has the pigeon whisperer.", subreddit: AskNYC]
+[m453mqo: "Cloisters, Noguchi museum, more art galleries", subreddit: AskNYC]
+[m1ax9to: "I’m down to help! Do it at wsp and put up fliers around the city.", subreddit: AskNYC]
+[lzi30jy: "Don’t walk slow. If you’re going to admire the view do it out of the way of pedestrians", subreddit: AskNYC]
+[ltr38yh: "First of all you look good! But if you want to become more \"conventionally attractive\", here are some of my suggestions.", subreddit: GenZ]
+[ltqzj9f: "Get this shaver, it's a bit pricy but you'll never have to worry about shaving again...", subreddit: GenZ]
+[lxifvet: "Also if you have a female friend who’s got good taste in clothes, just ask her what you think would look good in. Ask her if she’s down to go shopping with you.", subreddit: AskNYC]
+
+- Skeptical or Cynical (at times): Expresses doubt regarding hype (NFTs), AI capabilities, and institutions (NBA refs, health insurance, wealth dynamics).
+Confidence: 0.75
+Citations:
+[mvt4t5c: "the NFT craze has not settled into something sustainable, it's dead.", subreddit: NFT]
+[mk4no36: "imagine making 60fps videos with photos from OAI images. nothing on the internet can be trusted", subreddit: ChatGPTJailbreak]
+[m2nxxav: "I agree the quality has degraded since they came out with the new price tier", subreddit: ChatGPT]
+[m14jlnj: "Having your health insurance claim denied... you’re thrown into an endless cycle of calls...", subreddit: AskReddit]
+[m454yr1: "those with wealth pitting those less fortunate against each other.", subreddit: OptimistsUnite]
+[m454lgx: "Cut the number of ads in half, make consistent ref calls, and get gambling out of the league. But we know none of those are happening, so I’m definitely out.", subreddit: warriors]
+
+- Culturally Aware: Demonstrates knowledge of Japanese language/culture (One Piece, Made in Abyss translation), potentially indicating a background or strong interest.
+Confidence: 0.75
+Citations:
+[mswlma6: "Closest expression is naraku ochi 奈落落ち... Source: I’m Japanese", subreddit: OnePiece]
+[mpo38g6: "Fyi it says “Dear mom, everything I encounter from now is thanks to you”..."]
+[li6au72: "I'm Japanese, and the translation isn't entirely accurate... The word 未回収 is often used for \"flags\"...", subreddit: MadeInAbyss]
+
+Behavioral Patterns
+
+Online Habits:
+- Moderate Activity, Comment-Dominant: Low post frequency (6 posts/year) but active commenter (50 comments/year), suggesting they primarily engage with others' content rather than initiating new threads.
+Confidence: 0.9
+Citations: Based on the provided counts of 6 posts and 50 comments within the analysis timeframe.
+
+- Niche Community Engagement: High concentration of activity in specific, interest-based subreddits (gaming, NYC, tech, entertainment).
+Confidence: 0.95
+Citations: High volume of comments and posts in r/civ5, r/ManorLords, r/AskNYC, r/FoodNYC, r/OnePiece, r/ChatGPT, r/VisionPro, r/warriors.
+
+- Strategy and Advice Sharing: Actively contributes detailed strategies and personal advice, particularly in gaming and NYC subreddits.
+Confidence: 0.9
+Citations: (See 'Advice and Strategy Sharing' in Key Behavioral Patterns and relevant citations in Psychographics - Interests/Values).
+
+- Opinion Expressing: Uses comments and occasional posts to share clear opinions on social, political, and industry-specific topics (NFTs, AI, sports).
+Confidence: 0.85
+Citations: (See 'Opinion Sharing on Social/Economic Topics' in Key Behavioral Patterns and relevant citations in Psychographics - Personality Traits).
+
+Engagement Preferences:
+- Responding to Questions/Prompts: Frequently engages with direct questions or prompts in subreddits like r/AskReddit and r/AskNYC.
+Confidence: 0.9
+Citations: Many comments are direct answers or responses in Ask-style subreddits (e.g., AskReddit, AskNYC, Ask), gaming strategy questions, or tech usage queries.
+
+- Detail-Oriented Comments: Provides specific examples, lists, and step-by-step instructions in comments.
+Confidence: 0.85
+Citations:
+[mxxhvpf: "Breakfast - Buvette... Drinks - Double chicken please", subreddit: FoodNYC]
+[n1089i9: "That proximity is ridiculous, deep mining, two fishing huts... imo trading raw materials is easier...", subreddit: ManorLords]
+[m0jx8h5: "The optimal strategy I've discovered is the following 1. rush artist/writer slots..."]
+[ltr38yh: "here are some of my suggestions... Do away with glasses... Work out... Fashion... Eyebrows... Skincare... Hair..."]
+
+- Uses Casual Language and Internet Slang: Incorporates common online abbreviations and terms.
+Confidence: 0.8
+Citations:
+[m15gny0: "Apparantly you’re the top 1% here on reddit lolol", subreddit: warriors]
+[lfvpkdk: "Did you fr leave Joel out!??? rofl", subreddit: nba]
+[m0wmp5q: "Iykyk", subreddit: AskReddit]
+[m0a6ok5: "yeet off to space", subreddit: civ5]
+
+Goals and Motivations
+
+- Optimizing and Mastering Systems: Seeks to understand and achieve optimal outcomes in complex systems, particularly in strategy games.
+Confidence: 0.9
+Inferred from: Detailed strategy discussions and questions about game mechanics and mods.
+Citations:
+[m0jx8h5: "The optimal strategy I've discovered is the following..."]
+[m0a6ok5: "Hermit with internal trade routes, max rationalism, work every specialist slot, bulb scientists, yeet off to space."]
+[m0lub7c: "That’s a good suggestion. I’ve found the level below to be too easy doing the optimal route, so will try that"]
+[lqb18ti: "There are some key technologies which can give you significant advantage in the early game..."]
+[lpyweyu: "Is there a mod which automatically does this? Would be very helpful :/", subreddit: civ5]
+
+- Navigating and Experiencing Urban Life: Interested in exploring and making the most of living in a large city like NYC.
+Confidence: 0.9
+Inferred from: Seeking and providing recommendations for places, discussing transportation, and sharing observations about city experiences.
+Citations: (See NYC-related citations in Demographics and Psychographics - Interests).
+
+- Understanding and Engaging with Technology: Motivated to learn about new technologies like AI and VR, discuss their practical applications, and understand their limitations.
+Confidence: 0.85
+Inferred from: Questions about AI capabilities, comments on VisionPro usage, and skepticism about AI-generated content trust.
+Citations: (See Technology and AI citations in Psychographics - Interests).
+
+- Sharing Knowledge and Experience: Driven to share insights, advice, and personal experiences to help others or contribute to discussions.
+Confidence: 0.8
+Inferred from: The frequent offering of detailed strategies and advice across various subreddits.
+Citations: (See 'Helpful and Advice-Oriented' in Psychographics - Personality Traits).
+
+- Finding Community around Shared Interests: Engages in niche subreddits, suggesting a desire to connect with others who share similar hobbies and passions.
+Confidence: 0.8
+Inferred from: Consistent participation in specific gaming, entertainment, and location-based communities.
+Citations: The sheer volume of comments in subreddits like r/civ5, r/ManorLords, r/AskNYC, r/OnePiece, r/warriors.
+
+Pain Points and Challenges
+
+- Navigating Career/Professional Hurdles: Experiences frustration related to early career stages, potentially including internships and visa processes.
+Confidence: 0.8
+Identified through: Explicit mentions of "intern season" and H1B discussions focusing on exploitation vs. opportunity.
+Citations:
+[1lykkqf: "I feel violated by intern season", subreddit: newyorkcity]
+[1hnx8j0: "H1B holders, what are your thoughts on the narrative that you are being exploited?"]
+[1hnx7lj: "H1B holders, do you feel exploited, or see it as an opportunity to build a better life for you in the US?"]
+
+- Frustration with Systemic Issues: Expresses dissatisfaction with perceived unfairness or inefficiencies in various systems, such as inconsistent sports officiating, health insurance claim denials, or the lack of progress/issues in tech fields (NFTs, ChatGPT degradation).
+Confidence: 0.85
+Identified through: Negative sentiment and critical comments on these topics.
+Citations:
+[1hcopxo: "What needs to happen for the league to review the inconsistencies of the refs?", subreddit: nba]
+[m454lgx: "make consistent ref calls... we know none of those are happening", subreddit: warriors]
+[m14jlnj: "Having your health insurance claim denied... you’re thrown into an endless cycle of calls...", subreddit: AskReddit]
+[mvt4t5c: "the NFT craze has not settled into something sustainable, it's dead.", subreddit: NFT]
+[m2nxxav: "I agree the quality has degraded since they came out with the new price tier", subreddit: ChatGPT]
+
+- Lack of "Late Game" Content/Engagement: Finds certain games or communities lose appeal once core mechanics are mastered or initial hype fades.
+Confidence: 0.7
+Identified through: Comments about lack of late-game content in Manor Lords and the death of the NFT community hype.
+Citations:
+[n1i5k2p: "I do too but I rarely finish a game haha. Too little late game content", subreddit: ManorLords]
+[mvt4t5c: "the hype has definitely faded... people no longer seem interested.", subreddit: NFT]
+
+- Disappointment in Performance/Outcomes: Expresses frustration with the Golden State Warriors' performance.
+Confidence: 0.7
+Identified through: Specific comments about the team losing or giving false hope.
+Citations:
+[m4av54h: "Ok 5 more min with a 5pt deficit. I’m ready to be disappointed again", subreddit: warriors]
+[m45hfw5: "I’m not going to be disappointed anymore. I know how the warriors give us slight hope just to disappoint", subreddit: warriors]
+[m45hcfu: "Didn’t doubt warriors would lose this one", subreddit: warriors]
+
+Communication Style and Preferences
+
+- Direct and Informative: Comments often get straight to the point, providing answers, information, or clear opinions.
+Confidence: 0.9
+Examples: Detailed strategy guides, specific NYC recommendations, factual corrections (Japanese translation).
+Citations:
+[m0jx8h5: "The optimal strategy I've discovered is the following..."]
+[mxxhvpf: "Breakfast - Buvette... Drinks - Double chicken please", subreddit: FoodNYC]
+[mswlma6: "I'm Japanese, and the translation isn't entirely accurate... Source: I’m Japanese", subreddit: OnePiece]
+
+- Casual and Conversational: Uses informal language, including internet slang and abbreviations.
+Confidence: 0.8
+Examples: Use of "lolol," "rofl," "yeet," "Iykyk."
+Citations: (See 'Uses Casual Language and Internet Slang' in Behavioral Patterns).
+
+- Pragmatic and Realistic Tone: Often grounded in practicality and observable reality, sometimes with a hint of skepticism or cynicism.
+Confidence: 0.8
+Examples: Comments on AI limitations, NFT market death, wealth inequality, airline quality degradation.
+Citations:
+[mk4no36: "nothing on the internet can be trusted", subreddit: ChatGPTJailbreak]
+[mvt4t5c: "the NFT craze has not settled into something sustainable, it's dead.", subreddit: NFT]
+[lyei609: "My personal experience has definitely gotten worse... Flight delays are expected at this point...", subreddit: AskNYC]
+
+- Engages with Questions: Responsive to direct questions posed in threads.
+Confidence: 0.85
+Examples: Answering specific queries in AskNYC, AskReddit, and gaming subreddits.
+Citations: Many comments are direct replies to user questions or prompts.
+
+Methodology Notes:
+
+This user persona was constructed based on an analysis of 6 posts and 50 comments made by the Reddit user u/kojied within the 12-month period from July 2024 to July 2025. Data was sourced from the provided "Reddit User Data Collection Report." Persona characteristics were identified by categorizing content themes, analyzing comment sentiment and style, and cross-referencing recurring topics and explicit statements. Confidence levels for each trait were assigned based on the frequency and clarity of supporting evidence found in the data, with a minimum threshold of 0.7 required for inclusion. Citations are provided using the ID of the supporting post or comment and a representative quote. This persona represents an interpretation of the user's online activity within the specified timeframe and data constraints.

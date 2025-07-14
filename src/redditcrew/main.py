@@ -8,25 +8,24 @@ from redditcrew.crew import Redditcrew
 
 warnings.filterwarnings("ignore", category=SyntaxWarning, module="pysbd")
 
-# This main file is intended to be a way for you to run your
-# crew locally, so refrain from adding unnecessary logic into this file.
-# Replace with inputs you want to test with, it will automatically
-# interpolate any tasks and agents information
+USER_ID = "kojied"
+
+DEFAULT_CONFIG = {
+    "user_profile_url": "https://www.reddit.com/user/" + USER_ID,
+    "data_timeframe": "1 year",
+    "output_filename": f"user_persona_{USER_ID}.txt",
+    "min_posts_required": 10,
+    "confidence_threshold": 0.7,
+    "citation_format": "APA",
+    "current_date": datetime.now().strftime("%Y-%m-%d"),
+}
 
 
 def run():
     """
     Run the crew.
     """
-    inputs = {
-        "user_profile_url": "https://www.reddit.com/user/Hungry-Move-6603",
-        "data_timeframe": "1 year",
-        "current_date": str(datetime.now().strftime("%Y-%m-%d")),
-        "output_filename": "user_persona_hungry_move.txt",
-        "min_posts_required": 10,
-        "confidence_threshold": 0.7,
-        "citation_format": "APA",
-    }
+    inputs = DEFAULT_CONFIG
 
     try:
         Redditcrew().crew().kickoff(inputs=inputs)
@@ -38,15 +37,8 @@ def train():
     """
     Train the crew for a given number of iterations.
     """
-    inputs = {
-        "user_profile_url": "https://www.reddit.com/user/Hungry-Move-6603",
-        "data_timeframe": "6 monts",
-        "current_date": str(datetime.now().strftime("%Y-%m-%d")),
-        "output_filename": "user_persona_hungry_move.txt",
-        "min_posts_required": 5,
-        "confidence_threshold": 0.7,
-        "citation_format": "APA",
-    }
+    inputs = DEFAULT_CONFIG
+
     try:
         Redditcrew().crew().train(
             n_iterations=int(sys.argv[1]), filename=sys.argv[2], inputs=inputs
@@ -71,16 +63,7 @@ def test():
     """
     Test the crew execution and returns the results.
     """
-    inputs = {
-        "user_profile_url": "https://www.reddit.com/user/Hungry-Move-6603",
-        "data_timeframe": "6 monts",
-        "current_date": str(datetime.now().strftime("%Y-%m-%d")),
-        "output_filename": "user_persona_hungry_move.txt",
-        "min_posts_required": 5,
-        "confidence_threshold": 0.7,
-        "citation_format": "APA",
-    }
-
+    inputs = DEFAULT_CONFIG
     try:
         Redditcrew().crew().test(
             n_iterations=int(sys.argv[1]), eval_llm=sys.argv[2], inputs=inputs

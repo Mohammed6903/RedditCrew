@@ -8,7 +8,7 @@ from redditcrew.crew import Redditcrew
 
 warnings.filterwarnings("ignore", category=SyntaxWarning, module="pysbd")
 
-USER_ID = "kojied"
+USER_ID = "Hungry-Move-6603"
 
 DEFAULT_CONFIG = {
     "user_profile_url": "https://www.reddit.com/user/" + USER_ID,
